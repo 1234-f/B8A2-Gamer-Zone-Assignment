@@ -441,6 +441,13 @@ footer ul li {
             justify-content: center;
             margin-left: 70px;
         }
+        .online-games-description{
+            margin: 10px 0px;
+            text-align: center;
+        }
+        .online-games-card-text{
+            margin: 10px 0px;
+        }
     
         .online-games-card>img {
             width: 100%;
